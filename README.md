@@ -41,12 +41,6 @@ dependencies: [
 3. Drag `FeaturePulse.xcframework` into your Xcode project
 4. In your target's settings, under **Frameworks, Libraries, and Embedded Content**, ensure FeaturePulse is set to **Embed & Sign**
 
-### CocoaPods
-
-```ruby
-pod 'FeaturePulse', '~> 1.0.0'
-```
-
 **Binary Checksum for SPM:**
 ```
 d18f177034e7013a458a72640eb9bcf05ee4f88af0b08b07fff51940166bac04
